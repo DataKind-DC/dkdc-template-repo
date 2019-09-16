@@ -34,7 +34,7 @@ After retrieving the data, it is important to set up the development environment
 - Considerations for deliverables:
   - For deliverable 1: please make sure you do ....
   - etc.
-  
+
 The previous steps assumes working with Python. Other environments to consider for may be R, Node.js, Julia, GoLang, etc.
 
 ### Datasets
@@ -47,10 +47,10 @@ Phases usually follow this lifecycle. It may vary from project to project but th
 - [Feedback and Wrap-up](#feedback-and-wrap-up)
 
 ### Research and Design
-Blurb
+TODO
 
 ### Testing and Implementation
-Blurb
+TODO
 
 ### Feedback and Wrap-up
-Blurb
+TODO

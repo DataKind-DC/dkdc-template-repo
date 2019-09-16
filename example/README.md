@@ -64,10 +64,10 @@ Phases usually follow this lifecycle. It may vary from project to project but th
 - [Feedback and Wrap-up](#feedback-and-wrap-up)
 
 ### Research and Design
-Blurb
+TODO
 
 ### Testing and Implementation
-Blurb
+TODO
 
 ### Feedback and Wrap-up
-Blurb
+TODO
