@@ -7,10 +7,10 @@
 - make ramen a more nutritionally viable staple
 
 ## Table of Contents
-- [Team Members](##team-members)
-- [Deliverables](##deliverables)
-- [Data](##data)
-- [Project Phases](##phases)
+- [Team Members](#team-members)
+- [Deliverables](#deliverables)
+- [Data](#data)
+- [Project Phases](#phases)
 
 ## Team Members
 - Minh Mai
@@ -59,9 +59,9 @@ The dataset used depend on the corresponding data model available, for the purpo
 
 ## Phases
 Phases usually follow this lifecycle. It may vary from project to project but the general phases
-- [Research and Design](###research-and-design)
-- [Testing and Implementation](###testing-and-implementation)
-- [Feedback and Wrap-up](###feedback-and-wrap-up)
+- [Research and Design](#research-and-design)
+- [Testing and Implementation](#testing-and-implementation)
+- [Feedback and Wrap-up](#feedback-and-wrap-up)
 
 ### Research and Design
 Blurb
