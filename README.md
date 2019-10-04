@@ -13,8 +13,8 @@ of the project.
 ## Team Members
 - Name of Member
   - Role (either DA, Core Volunteer, Stakeholder, etc.)
-  - Personal Email
-  - Contact Phone (?)
+  - Personal Email (not to be made public)
+  - Contact Phone (?) (not to be made public)
   - Miscellaneous information such as contact for certain problems
 
 ## Deliverables
@@ -25,6 +25,9 @@ A short introduction of the data set used. The main subections of this section s
 
 ### Onboarding
 A detailed but simple explaination to get ahold of the data. Not only that but there should also be a focus on making sure the end users have the proper libraries installed.
+
+### Skills
+A detailed list of the skills that are required to contribute to this project.  Try to have some possibility for a new data science to make a contribution.
 
 #### Configuration
 After retrieving the data, it is important to set up the development environment for reproducible analysis. Before diving into the data, please make sure you configure the following:
