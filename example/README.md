@@ -8,6 +8,7 @@
 
 ## Table of Contents
 - [Team Members](#team-members)
+- [Skills](#skills)
 - [Deliverables](#deliverables)
 - [Data](#data)
 - [Project Phases](#phases)
@@ -15,9 +16,11 @@
 ## Team Members
 - Minh Mai
   - Core Volunteer, Instant Ramen Enthusiast
-  - minh@ramen.com
-  - 555-1234
+  - [minh5](http://github.com/minh5)
   - Knows the API, useful for answer questions about datasets, and giving recommendations on where to eat ramen
+
+## Skills
+Mostly the data science Python stack: familiarity with Pandas and Numpy. Also any webscraping and working with APIs will work as well. For one deliverable, we will need someone with the ability to write clearly.
 
 ## Deliverables
 The main deliverables for this project are:
