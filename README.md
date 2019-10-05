@@ -6,6 +6,7 @@ of the project.
 
 ## Table of Contents
 - [Team Members](#team-members)
+- [Skills](#skills)
 - [Deliverables](#deliverables)
 - [Data](#data)
 - [Project Phases](#phases)
@@ -13,12 +14,14 @@ of the project.
 ## Team Members
 - Name of Member
   - Role (either DA, Core Volunteer, Stakeholder, etc.)
-  - Personal Email
-  - Contact Phone (?)
+  - Contact information (either email, phone, Slack channel, or github username to contact)
   - Miscellaneous information such as contact for certain problems
 
+## Skills
+A detailed list of the skills that are required to contribute to this project.  Try to have some possibility for a new data science to make a contribution. Skills can also be listed along with deliverables in the Deliverables section.
+
 ## Deliverables
-Insert key questions that the project is supposed to answer. Ideally we should also include information about the skillset needed and/or if the task is beginner friendly
+Insert key questions that the project is supposed to answer. Ideally we should also include information about the skillset needed and/or special indicators, i.e. if the task is beginner friendly
 
 ## Data
 A short introduction of the data set used. The main subections of this section should be focus on how to access the data as well as general onboarding.
